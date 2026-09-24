@@ -1,0 +1,6 @@
+{
+  "name": "REAL FOCUS - Juridiskās konsultācijas AAE",
+  "description": "Augstas uzticamības juridiskais partneris uzņēmumu dibināšanai, vīzu kārtošanai un bankas kontu atvēršanai Apvienotajos Arābu Emirātos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

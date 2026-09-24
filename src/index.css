@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+
+.legal-border {
+  border-left: 4px solid #1e3a8a;
+}
